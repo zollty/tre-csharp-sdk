@@ -41,7 +41,7 @@ namespace TRE.Ext
         public static ReportQueryResult queryReport(AuthConfig authConfig, String taskNo, String fileCreateTime)
         {
             ReportQueryService queryService = new ReportQueryService((IOAuth1Config)authConfig);
-            queryService.Param = "{\"taskNo\":\"" + taskNo + "\",\"fileTime\":+\"" + fileCreateTime + "\"}";
+            queryService.Param = "{\"taskNo\":\"" + taskNo + "\",\"fileTime\":\"" + fileCreateTime + "\"}";
             return queryService.doService();
         }
 
