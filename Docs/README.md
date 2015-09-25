@@ -24,7 +24,7 @@ NuGet安装方式：
 
 源码下载:
 
-	git clone https://github.com/TravelskyTech/tre-csharp-sdk
+	git clone https://github.com/TaoTech/tre-csharp-sdk
 
 DLL引用方式:
 
@@ -67,7 +67,7 @@ DLL引用方式:
 <a name=rs-api></a>
 ## 下载报表
 
-具体用法参见 [https://github.com/TravelskyTech/tre-csharp-sdk] 下面的TRE.Test的例子：
+具体用法参见 [https://github.com/TaoTech/tre-csharp-sdk] 下面的TRE.Test的例子：
 
 ```c#
 /**
