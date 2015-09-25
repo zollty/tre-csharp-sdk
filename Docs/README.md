@@ -5,7 +5,7 @@ title: C# SDK 使用指南
 
 # C# SDK 使用指南
 
-此 C# SDK 适用于.net framework>2.0版本，基于中国航信报表引擎（TRE）官方API构建。使用此 SDK 构建您的网络应用程序，能让您以非常便捷地使用报表引擎的服务。无论您的网络应用是一个网站程序，还是包括从云端（服务端程序）到终端（手持设备应用）的架构的服务或应用，通过中国航信报表引擎及其 SDK，都能让您应用程序的终端用户高速查询和下载，同时也让您的服务端更加轻盈。
+此 C# SDK 适用于.net framework>2.0版本，基于报表引擎（TRE）官方API构建。使用此 SDK 构建您的网络应用程序，能让您以非常便捷地使用报表引擎的服务。无论您的网络应用是一个网站程序，还是包括从云端（服务端程序）到终端（手持设备应用）的架构的服务或应用，通过TRE及其 SDK，都能让您应用程序的终端用户高速查询和下载，同时也让您的服务端更加轻盈。
 
 - [安装](#install)
 - [初始化](#setup)
@@ -45,9 +45,9 @@ DLL引用方式:
 
 客户端使用。
 
-要接入中国航信报表引擎（TRE），您需要拥有一对有效的 Access Key 和 Secret Key 用来进行签名认证。可以通过如下步骤获得：
+要接入报表引擎（TRE），您需要拥有一对有效的 Access Key 和 Secret Key 用来进行签名认证。可以通过如下步骤获得：
 
-1. 向中国航信申请使用报表引擎的服务，航信将会提供给您一套配置（包括账户和密匙）。
+1. 向TRE申请使用报表引擎的服务，将会提供给您一套配置（包括账户和密匙）。
 
 在获取到 Access Key 和 Secret Key 之后，您可以在您的程序中配置并初始化对接, 要确保`baseURL` 和 `appSecret` 等在<u>调用所有TRE API服务之前均已赋值</u>：
 
@@ -110,7 +110,7 @@ public static void testdownloadSaleReport(String airlineCode)
 <a name=license></a>
 ## 许可证
 
-Copyright (c) 2014 Travelsky
+Copyright (c) 2014 TRE
 
 基于 Apache License, Version 2.0 协议发布:
 
