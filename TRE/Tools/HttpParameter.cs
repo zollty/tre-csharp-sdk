@@ -1,6 +1,6 @@
 ﻿//-----------------------------------------------------------------------
 // <copyright>
-//    Copyright (c) 2014, TravelSky Technology Limited. 
+//    Copyright (c) 2014, Anonymous Technology Limited. 
 //
 //    Licensed under the Apache License, Version 2.0 (the "License");
 //    you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
 //    limitations under the License.
 // </copyright>
 // <author>Zollty Tsou (blog.zollty.com)</author>
-// <website>https://github.com/TravelskyTech/tre-csharp-sdk</website>
+// <website>https://github.com/zollty/tre-csharp-sdk</website>
 //-----------------------------------------------------------------------
 
 namespace TRE.Tools

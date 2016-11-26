@@ -37,3 +37,4 @@ PrecompiledWeb/
 *.snk
 buildlog.txt
 *.DotSettings
+.project

@@ -6,7 +6,7 @@
  
 ## 使用
  
-参考文档：[TRE C# SDK 使用指南](https://github.com/TravelskyTech/tre-csharp-sdk/tree/master/Docs/README.md)
+参考文档：[TRE C# SDK 使用指南](https://github.com/zollty/tre-csharp-sdk/tree/master/Docs/README.md)
  
 ## 贡献代码
 
