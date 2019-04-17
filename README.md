@@ -18,8 +18,6 @@
 
 ## 许可证
 
-Copyright (c) 2014 TRE
-
 基于 Apache License, Version 2.0 协议发布:
 
 * [http://www.apache.org/licenses/LICENSE-2.0]
